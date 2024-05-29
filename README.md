@@ -5,7 +5,7 @@
 
 This Tableau dashboard synthesizes complex manufacturing and employee performance datasets into actionable insights. Designed for manufacturing sector analysts, it focuses on enhancing operational efficiency and optimizing human resource allocation.
 
-**Dashboard Description**
+## **Dashboard Description**
 
 The dashboard distills vast arrays of production and personnel data into visual analytics that drive decision-making:
 
@@ -17,7 +17,7 @@ The dashboard distills vast arrays of production and personnel data into visual 
 
 **Salary Forecasting:** Predictive modeling of future salary trends, preparing the organization for forward-thinking financial planning.
 
-**Analytics in Action**
+## **Analytics in Action**
 
 The visualization suite within the dashboard includes:
 
@@ -36,7 +36,7 @@ Business Benefits
 
 **Strategic Forecasting:** Advanced forecasting features enable future salary and production cost predictions, vital for long-term planning.
 
-**Conclusion**
+## **Conclusion**
 
 With its powerful visualizations and deep analytical capabilities, this Power BI dashboard empowers manufacturers to navigate the complexities of production and personnel management. It underscores the importance of leveraging data to sustain competitive advantages in manufacturing efficiency and workforce optimization.
 
