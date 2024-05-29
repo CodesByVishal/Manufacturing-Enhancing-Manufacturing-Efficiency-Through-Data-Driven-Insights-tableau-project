@@ -40,6 +40,6 @@ Business Benefits
 
 With its powerful visualizations and deep analytical capabilities, this Power BI dashboard empowers manufacturers to navigate the complexities of production and personnel management. It underscores the importance of leveraging data to sustain competitive advantages in manufacturing efficiency and workforce optimization.
 
-**Dashboard Snaps**
+## **Dashboard Snaps**
 
 ![Manufacturing Dashboard](https://github.com/CodesByVishal/Manufacturing-Enhancing-Manufacturing-Efficiency-Through-Data-Driven-Insights-tableau-project/assets/163639829/af31dd7a-3de0-4c82-b7e4-5e611d23d1c7)
